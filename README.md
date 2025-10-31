@@ -7,7 +7,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=xiaohuaye1&theme=default&show_icons=true&hide_border=true" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,vscode"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,react,python,git,vscode"/>
 </p>
 
 </div>
