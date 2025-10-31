@@ -11,10 +11,5 @@
 </p>
 
 </div>
-h1,span {
-color: #00ff00 !important;
-font-family: 'Courier New'， monospace;
-text-shadow: 0 0 10px #00ff00,0 0 20px #00ff00;
-font-size:3em;
-  }
+
 </style>
