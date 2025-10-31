@@ -11,3 +11,10 @@
 </p>
 
 </div>
+<div align="center">
+
+# ⚡ acliquid
+
+![贪吃蛇游戏](https://raw.githubusercontent.com/xiaohuaye1/xiaohuaye1/main/snake.svg)
+
+</div>
