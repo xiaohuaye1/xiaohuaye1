@@ -11,14 +11,6 @@
 </p>
 
 </div>
-<style>
-body {
-background: linear-gradient(45deg, #ff00ff,#00ffff,#ffff00,#ff00ff);
-background-size: 400% 400%;
-animation: gradient 15秒 ease infinite;
-margin: 0;
-padding: 20px;
-  }
 @keyframes gradient{
   0% { background-position: 0% 50%; }
   50% { background-position: 100% 50%; }
